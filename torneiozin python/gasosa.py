@@ -3,4 +3,4 @@
 distance = float(input())
 fuel = float(input())
 
-print("%.3f" % (distance / fuel))
+print("%.3f km/l" % (distance / fuel))

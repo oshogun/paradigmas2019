@@ -31,9 +31,9 @@ print('Total de coelhos: ' + str(animals[0][1]))
 print('Total de ratos: ' + str(animals[1][1]))
 print('Total de sapos: ' + str(animals[2][1]))
 
-print('Percentual de coelhos: %.2f' %(percentRabbit))
-print('Percentual de ratos: %.2f' %(percentMickey))
-print('Percentual de sapos: %.2f' %(percentFroggo))
+print('Percentual de coelhos: %.2f' %(percentRabbit) + ' %')
+print('Percentual de ratos: %.2f' %(percentMickey) + ' %')
+print('Percentual de sapos: %.2f' %(percentFroggo) + ' %')
 
 
 
